@@ -144,7 +144,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
-- Draft picks up to 2 years in the future are tradable.
+- You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2022, then you must have paid the league dues for the 22 season. 
 
 <br><br>
 
