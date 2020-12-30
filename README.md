@@ -137,8 +137,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 - FAAB dollars are tradeable
 - There is a one day waiting period for waivers to clear
 - Free agency locks a week after the championship ends, through the end of the rookie draft. 
-- Daily waivers will be used throughout the season and offseason, outside of locking from gametime through the start of the week waiver clear. 
-
+- Daily waivers will be used throughout the season and offseason (outside of the dead zone), outside of locking from gametime through the start of the week waiver clear. 
+- FA pickups are locked from Championship week through the rookie draft, this is the dead zone.
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
