@@ -62,7 +62,7 @@ TBD
 #### Nomination ####
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 2 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
-- At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass. If a vote passes with less than 75% majority, then the rule will take a year to go into affect, this way, if there is a rule put in place that you absolutely do not want, you can leave the league gracefully before the rule comes into effect.
+- At the season end summit, we will vote on any nominated proposals. 8/12 vote are needed to pass a rule change with a year delay. 10/12 votes are needed to pass a rule change immediately with no delay.
 <br>
 
 ### League Summit ### 
@@ -114,6 +114,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 14 | No Limi
    IR | 2 | No Limit
+   Taxi | 3 | Rookies Only
 
 ### Offseason Rosters (Post-draft Rosters)###
    Position | Starters | Maximum
@@ -126,7 +127,14 @@ If a team does not pay their dues by the designated date they are not eligible t
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 14 | No Limi
    IR | 2 | No Limit
-
+   Taxi | 3 | Rookies Only
+   
+ ### Taxi Squad ###
+   - 4 taxi squad spots
+   - rookies only
+   - After the season has started, a player removed from the taxi squad cannot be put back on.
+   - no poaching
+ 
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
@@ -189,6 +197,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - The two teams with the best regular season records will be assigned to the top two seeds, and receive a first round bye.
 - The next four teams will be assigned their playoff seeding spot based on regular season record.
 - The seedings will reseed so that the number 1 seed gets the best possible semi-final matchup.
+- The 6th playoff spot will go to the team out of the 7 remaining teams with the highest points scored on the season.
 
 <br><br>
 
@@ -219,9 +228,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
-- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
-- If you are not willing to play the final season, you forfeit the money that you have paid.
+- We require managers always be paid out a year in advance, if you wish to leave the league you forfeit that future payment in order to help fill your spot.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
 ### Missing Teams ###
